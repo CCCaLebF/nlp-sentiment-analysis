@@ -1,0 +1,21 @@
+To run code, ensure that all datasets and libraries stated below are installed. 
+Download pretrained word embeddings and extract the 100D word embeddings file from the zipped folder.
+
+# libraries ----------------------------------------
+pandas
+numpy
+re
+nltk
+tensorflow
+keras
+keras_tuner
+
+# datasets --------------------------------------
+Google Restaurant Reviews # https://cseweb.ucsd.edu/~jmcauley/datasets.html#google_restaurants
+Disneyland Reviews # https://www.kaggle.com/datasets/arushchillar/disneyland-reviews
+Amazon Reviews # https://www.kaggle.com/code/him4318/sentimental-analysis/data
+
+# extras --------------------------------------
+GloVe Word Embeddings # https://nlp.stanford.edu/data/glove.6B.zip
+trained model file 
+
